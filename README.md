@@ -5,7 +5,6 @@ En el marco de un trabajo de investigación de Facultad de Educación, Uncuyo.
 
 | Nombre               | LinkedIn                                               | GitHub                                      |
 | -------------------- | ------------------------------------------------------ | ------------------------------------------- |
-| Agustin Putrino      | [Agustin Putrino](https://www.linkedin.com/in/agussputrii/) | [agussputrii](https://github.com/agussputrii)    |
 | Carolina Belén Delgado | [Carolina Belén Delgado](https://www.linkedin.com/in/carolina-belén-delgado-558843219/) | [programacioncarolina1980](https://github.com/programacioncarolina1980) |
 | Marcelo Vitullo      | ](https://www.linkedin.com/) | [      |
 | Costilla Celina      | [Costilla Celina](https://www.linkedin.com/in/celinacostilla31323344/) | [Hiddencelc](https://github.com/users/Hiddencelc/) |
