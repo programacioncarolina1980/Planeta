@@ -1,6 +1,6 @@
 # Exoplanetas ortográficos
-Exoplanetas ortográficos un juego para el aprendizaje gamificados en aulas
-En el marco de un trabajo de investigación de Facultad de Educación, Uncuyo.
+Exoplanetas ortográficos es un juego para el aprendizaje gamificados en aulas
+En el marco de un trabajo de investigación de Facultad de Educación, Uncuyo a cargo de Profesora Graciela Miranda como practica profesionalizante para la cátedra de Práctica Profesional de la Tecnicatura Superior en Programación a cargo del Profesor Osvaldo Giordanini de la Universidad Tecnológica Nacional.
 #### Integrantes del equipo de desarrolladores
 
 | Nombre               | LinkedIn                                               | GitHub                                      |
