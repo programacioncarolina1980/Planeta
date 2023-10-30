@@ -1,0 +1,23 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-size: contain;
+    background-position: center;
+    font-family: Arial;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background: url(/multimedia/fondo-juegos.jpg);  
+    background-size: cover;
+    background-position: space-around center; 
+    display: block;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 125vh;
+    min-width: max-content;
+}
