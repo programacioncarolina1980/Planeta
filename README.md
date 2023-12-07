@@ -9,7 +9,7 @@ En el marco de un trabajo de investigación de Facultad de Educación, Uncuyo a 
 ![image](https://github.com/programacioncarolina1980/Exoplanetas-Ortograficos/assets/98441984/1c1441b9-b873-4a2a-80ba-8930b52efd70)
 ![image](https://github.com/programacioncarolina1980/Exoplanetas-Ortograficos/assets/98441984/a6499ebd-601f-442b-bc7e-d913d09348a6)
 ![image](https://github.com/programacioncarolina1980/Exoplanetas-Ortograficos/assets/98441984/f2aa6e17-b94e-4fb9-8e00-f9bc166a32cb)
-
+![image](https://github.com/programacioncarolina1980/Exoplanetas-Ortograficos/assets/98441984/546e565d-e4f9-469c-9b74-ee4f0d2561e1)
 
 #### Integrantes del equipo de desarrolladores
 
