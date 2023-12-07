@@ -4,7 +4,7 @@ En el marco de un trabajo de investigación de Facultad de Educación, Uncuyo a 
 <a href='https://postimg.cc/BjFnfRpc' target='_blank'><img src='https://i.postimg.cc/BjFnfRpc/EXOPLANETAS.gif' border='0' alt='EXOPLANETAS'/></a>
 
 
-![image](https://github.com/programacioncarolina1980/Exoplanetas-Ortograficos/assets/98441984/5e8adec6-45f4-4379-bae1-029ff9ce2a83)
+![image](https://github.com/programacioncarolina1980/Exoplanetas-Ortograficos/assets/98441984/195fd00d-0817-40e3-af33-1609992f8afc)
 ![image](https://github.com/programacioncarolina1980/Exoplanetas-Ortograficos/assets/98441984/028177af-cb6c-4cbc-9152-38effc616199)
 ![image](https://github.com/programacioncarolina1980/Exoplanetas-Ortograficos/assets/98441984/1c1441b9-b873-4a2a-80ba-8930b52efd70)
 ![image](https://github.com/programacioncarolina1980/Exoplanetas-Ortograficos/assets/98441984/a6499ebd-601f-442b-bc7e-d913d09348a6)
